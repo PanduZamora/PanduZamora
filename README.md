@@ -1,4 +1,4 @@
-# Hi, I'm Nama Kamu 👋
+# Hi, I'm Pandu Zamora 👋
 
 I'm a Web Developer with experience in WordPress, PHP, Laravel, JavaScript, SQL, and frontend development.  
 I enjoy building responsive websites, custom WordPress features, and clean web applications.
